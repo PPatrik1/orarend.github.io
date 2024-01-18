@@ -1,0 +1,30 @@
+ th, td {
+    border:1px solid black;
+    border-radius: 10px;
+  }
+table{
+    height: auto;
+    width: auto;
+    border-collapse: separate;
+    border:1px solid black;
+    border-radius: 10px;
+}
+h2{
+      text-align: center;
+  }
+.nap{
+      background-color: aqua;
+  }
+.dk{
+      background-color: blue;
+  }
+#di{
+      color: white;
+  }
+.ma{
+      background-color: blueviolet;
+  }
+.mt{
+    background-color: tomato;
+  }
+
